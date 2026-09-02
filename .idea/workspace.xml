@@ -13,7 +13,10 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f13efe47-08e3-4481-8e9a-5ef8bb47ad9c" name="Changes" comment="" />
+    <list default="true" id="f13efe47-08e3-4481-8e9a-5ef8bb47ad9c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,22 +43,22 @@
     </assistant-settings>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="44" />
+    <option name="cachedIndexableFilesCount" value="45" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "assignee": "gustavo-nomelini"
+      &quot;assignee&quot;: &quot;gustavo-nomelini&quot;
     }
   ],
-  "lastFilter": {
-    "assignee": "gustavo-nomelini"
+  &quot;lastFilter&quot;: {
+    &quot;assignee&quot;: &quot;gustavo-nomelini&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="76cc3b93-9780-4a0e-84d4-f6387e6bc051" />
   </component>
@@ -113,7 +116,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -145,6 +148,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="add initial project configuration files for Material Theme and VCS settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="add initial project configuration files for Material Theme and VCS settings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
